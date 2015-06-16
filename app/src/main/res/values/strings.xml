@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App Portfolio</string>
+
+    <string name="my_title">Android Nanodegree Apps</string>
+    <string name="media_streamer">Spotify Streamer</string>
+    <string name="super_duo1">Scores App</string>
+    <string name="super_duo2">Library App</string>
+    <string name="ant_terminator">Build it Bigger</string>
+    <string name="materialize">XYZ Reader</string>
+    <string name="capstone">Capstone: My App</string>
+</resources>
